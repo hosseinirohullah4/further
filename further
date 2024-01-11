@@ -1,6 +1,6 @@
 fsثقغqeaegzcx/..ffffFff
 alailai42242424242424242
-sudo apt-get remove docker docker-engine docker.io containerd runc
+sudo apt-get remove docker docker-engine docker.io containerd runc12
 
 sudo apt-get update
 
